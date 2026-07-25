@@ -9,8 +9,7 @@ from deploygent.output import TextOutput
 
 agent = Agent(
     name="Testing Agent",
-    version="1.0.0",
-    description="A sample agent to test the DeployGent SDK."
+    version="1.0.0"
 )
 
 
