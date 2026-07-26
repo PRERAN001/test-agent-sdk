@@ -38,5 +38,4 @@ def greet(
     return message
 
 
-if __name__ == "__main__":
-    agent.serve()
+
